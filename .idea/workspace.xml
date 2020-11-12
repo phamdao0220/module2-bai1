@@ -8,20 +8,22 @@
       <change afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter/nav.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter/thuchanh2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap1.bai5/baitap1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap1.bai5/circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap1.bai5/cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/Point2D.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/Point3D.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/MoveablePoint.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/Point.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5/Cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5/Rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5/Shape.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5/Square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5/thuchanh1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/AbstractClass/Fruint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircleMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircleMain.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/override-overlooded/timhieu.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao/cha.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao/con.php" afterDir="false" />
@@ -41,46 +43,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/Point2D.php">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Comparable.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/Point3D.php">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Circle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/index.php">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/demo.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="195">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircleMain.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Circle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Comparable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/Point.php">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircleMain.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/MoveablePoint.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -102,33 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baitapmodule2/bai2/baitap1.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai2/baitap2.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/baitap3.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/baitap1.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/baitap2.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/baitinhtongchietxuat.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/maytinh.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai2/baitap3.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai2/baitap4.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai3.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai3/thuchanh1.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai3/baitap1.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai3/baitap2.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/taotranglogin.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/taotranglogin/class.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/taotranglogin/phuongtrinhbac2.php" />
-        <option value="$PROJECT_DIR$/baitapvenha/taotranglogin/tyle.css" />
-        <option value="$PROJECT_DIR$/baitapvenha/taotranglogin/login.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai4/thuchanh1.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai4/thuchanh2.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai4/models/product.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai4/services/product manger.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai4/thuchanh3.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai4/baitap1.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai5/Rectangle.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai5/Circle.php" />
-        <option value="$PROJECT_DIR$/baitapmodule2/bai5/Shape.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai5/Square.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai5/Cylinder.php" />
@@ -153,12 +160,40 @@
         <option value="$PROJECT_DIR$/baitapmodule2/bai5/baitap2.bai5/Point.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/MoveablePoint.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/Point.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/Animals/Chicken.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/AbstractClass/Fruint.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/AbstractClass/Animal.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/Animals/Tiger.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/Fruits/Orange.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/Fruits/Apple.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/index.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/InterfaceClass/Edible.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Chicken.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Apple.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/index.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Orange.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Tiger.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/AbstractClass/Animal.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Circle.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Comparable.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircleMain.php5" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Circle.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Comparable.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2/CircleComparator.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircle.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircleMain.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Circle.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Comparable.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircle.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircleMain.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="549" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="731" />
     <option name="height" value="747" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -184,19 +219,7 @@
               <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sites" type="462c0819:PsiDirectoryNode" />
               <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sites" type="462c0819:PsiDirectoryNode" />
-              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai5" type="462c0819:PsiDirectoryNode" />
-              <item name="baitap3.bai5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sites" type="462c0819:PsiDirectoryNode" />
-              <item name="baitapvenha" type="462c0819:PsiDirectoryNode" />
+              <item name="bai6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,11 +238,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6" />
       <recent name="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao" />
       <recent name="$PROJECT_DIR$/baitapmodule2/bai5/thuchanh1.bai5" />
       <recent name="$PROJECT_DIR$/baitapmodule2/bai5/baitap1.bai5" />
       <recent name="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter" />
-      <recent name="$PROJECT_DIR$/baitapmodule2/bai2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,12 +293,12 @@
       <workItem from="1604977378174" duration="6840000" />
       <workItem from="1605018969323" duration="21092000" />
       <workItem from="1605141781107" duration="147000" />
-      <workItem from="1605143466579" duration="211000" />
+      <workItem from="1605143466579" duration="10110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71703000" />
+    <option name="totallyTimeSpent" value="81602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,10 +310,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="747" extended-state="0" />
-    <editor active="true" />
+    <frame x="549" y="23" width="731" height="747" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11793215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46589258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,8 +325,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3068493" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3053435" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -312,7 +334,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07835218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -325,8 +347,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3068493" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3053435" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -349,98 +371,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai2/baitap2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai2/data.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai2/baitap3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapvenha/maytinh.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai3.php" />
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai2/baitap4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/demo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai3/thuchanh1.php" />
-    <entry file="file://$PROJECT_DIR$/baitapvenha/taotranglogin.php" />
-    <entry file="file://$PROJECT_DIR$/baitapvenha/taotranglogin/class.php" />
-    <entry file="file://$PROJECT_DIR$/baitapvenha/taotranglogin/tyle.css" />
-    <entry file="file://$PROJECT_DIR$/baitapvenha/taotranglogin/phuongtrinhbac2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapvenha/taotranglogin/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapvenha/baitinhtongchietxuat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai3/baitap2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai3/baitap1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai1/thuchanh2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai1/thuchanh1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baitapmodule2/bai1/baitap1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -638,6 +568,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Orange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/AbstractClass/Animal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Tiger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/AbstractClass/Fruint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Chicken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/InterfaceClass/Edible.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.php5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Apple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2/CircleComparator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Comparable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/demo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh2.bai6/ComparableCircleMain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/Comparable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh3.bai6/ComparableCircleMain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
