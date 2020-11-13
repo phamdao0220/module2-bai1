@@ -3,10 +3,17 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baitapmodule2/bai7/php-cleancode-refactoring-method-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh2/thuchanh1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapvenha" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/book-management-back-end" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/book-management-front-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-renaming" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test/customer-filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thuchanh1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tung-dk-bbs-project" vcs="Git" />
   </component>
 </project>

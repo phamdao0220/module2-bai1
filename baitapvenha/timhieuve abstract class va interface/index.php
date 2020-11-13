@@ -1,0 +1,43 @@
+                             Abstract Class                                           Interface
+                         -    Class                                                -    Method
+Từ khoá                  -  intends                                                 - i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
