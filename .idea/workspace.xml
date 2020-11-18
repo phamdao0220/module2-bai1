@@ -20,11 +20,11 @@
       <change afterPath="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao/ong.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/timhieuve abstract class va interface/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Sites.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sites.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1/src/Calculator.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1/tests/CalculatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1/tests/CalculatorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh3" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh3/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh3/src/Cylinder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitapmodule2/bai8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai8/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitapmodule2/bai8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/baitapmodule2/bai8/.idea/workspace.xml" afterDir="false" />
@@ -66,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/baitapmodule2/bai10/baitap2/SplStack.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -204,19 +204,6 @@
               <item name="Sites" type="462c0819:PsiDirectoryNode" />
               <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sites" type="462c0819:PsiDirectoryNode" />
-              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sites" type="462c0819:PsiDirectoryNode" />
-              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai10" type="462c0819:PsiDirectoryNode" />
-              <item name="baitap1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -297,12 +284,12 @@
       <workItem from="1605188268366" duration="9007000" />
       <workItem from="1605496471007" duration="16792000" />
       <workItem from="1605600077404" duration="317000" />
-      <workItem from="1605660426999" duration="5987000" />
+      <workItem from="1605660426999" duration="6164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113705000" />
+    <option name="totallyTimeSpent" value="113882000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +302,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12520194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -330,7 +316,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3038168" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30273974" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -699,7 +685,7 @@
     <entry file="file://$PROJECT_DIR$/baitapmodule2/bai10/baitap2/SplStack.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
