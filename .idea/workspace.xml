@@ -14,6 +14,7 @@
       <change afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter/nav.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter/thuchanh2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitapmodule2/bai8/baitap1/MyList.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/override-overlooded/timhieu.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao/cha.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/baitapvenha/taotranglogin/baitapcuaanhthao/con.php" afterDir="false" />
@@ -42,6 +43,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Sites" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -65,8 +69,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitapmodule2/bai10/baitap2/SplStack.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="330">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitapmodule2/bai8/baitap1/MyList.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -88,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Animals/Chicken.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Apple.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/index.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Orange.php" />
@@ -138,6 +150,7 @@
         <option value="$PROJECT_DIR$/baitapmodule2/bai10/baitap1/Dancer/baitap1.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai10/baitap1/Dancer.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai10/baitap1/Dancer1.php" />
+        <option value="$PROJECT_DIR$/baitapmodule2/bai8/baitap1/MyList.php" />
         <option value="$PROJECT_DIR$/baitapmodule2/bai10/baitap2/SplStack.php" />
       </list>
     </option>
@@ -203,6 +216,32 @@
               <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sites" type="462c0819:PsiDirectoryNode" />
               <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sites" type="462c0819:PsiDirectoryNode" />
+              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
+              <item name="bai8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sites" type="462c0819:PsiDirectoryNode" />
+              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
+              <item name="bai8" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sites" type="462c0819:PsiDirectoryNode" />
+              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
+              <item name="bai10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sites" type="462c0819:PsiDirectoryNode" />
+              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
+              <item name="bai10" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,12 +323,12 @@
       <workItem from="1605188268366" duration="9007000" />
       <workItem from="1605496471007" duration="16792000" />
       <workItem from="1605600077404" duration="317000" />
-      <workItem from="1605660426999" duration="6164000" />
+      <workItem from="1605660426999" duration="8695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113882000" />
+    <option name="totallyTimeSpent" value="116413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,10 +341,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12520194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49863014" visible="true" weight="0.20516963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50136983" side_tool="true" weight="0.12520194" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.29589042" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
@@ -316,7 +356,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30273974" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30273974" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -372,13 +412,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai5/baitap3.bai5/Point.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baitapmodule2/bai6/thuchanh1.bai6/Fruits/Orange.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -682,10 +715,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/baitapmodule2/bai8/baitap1/MyList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/baitapmodule2/bai10/baitap2/SplStack.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="330">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
