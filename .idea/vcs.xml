@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/baitapmodule2/bai11" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2/bai2/customer-filter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2/bai7/php-cleancode-refactoring-method-extraction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2/bai7/thuchanh1" vcs="Git" />
