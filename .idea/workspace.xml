@@ -157,7 +157,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitapmodule2/bai9/baitap6/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="412">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
@@ -316,6 +316,12 @@
               <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
               <item name="bai6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sites" type="462c0819:PsiDirectoryNode" />
+              <item name="baitapmodule2" type="462c0819:PsiDirectoryNode" />
+              <item name="bai7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -401,12 +407,12 @@
       <workItem from="1605796325525" duration="2733000" />
       <workItem from="1605837101001" duration="3393000" />
       <workItem from="1605928248427" duration="2383000" />
-      <workItem from="1605941391197" duration="2361000" />
+      <workItem from="1605941391197" duration="2643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134606000" />
+    <option name="totallyTimeSpent" value="134888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -830,7 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baitapmodule2/bai9/baitap6/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="412">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
