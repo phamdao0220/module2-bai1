@@ -2,55 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ab6e340-1a34-4e84-9667-705d73e5d04c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../case-study/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/controller/ScoreController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/controller/StudentController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/ClassStudent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/ClassStudentModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/DBConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/Score.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/ScoreModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/Subject.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/model/studentModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/view/add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/view/add_score.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/view/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/view/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/src/view/list_score.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case-study/uploads/a1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Controller/StudentController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/DBConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/Student.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/StudentModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/Controller/studentcontroller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/Model/DBConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/Model/studentmodel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/View/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/controller/commodityController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/model/DBConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/model/commodity.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/model/commodityModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/view/add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/view/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../luyentap/src/view/list.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reflection-Moudle2" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection-Moudle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reflection-Moudle2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Reflection-Moudle2/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/baitapmodule2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/encodings.xml" beforeDir="false" />
@@ -91,6 +45,85 @@
       <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh1" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/controller/ScoreController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/controller/ScoreController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/controller/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/controller/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/ClassStudent.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/ClassStudent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/ClassStudentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/ClassStudentModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/Score.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/Score.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/ScoreModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/ScoreModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/Subject.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/Subject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/student.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/model/studentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/model/studentModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/view/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/view/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/view/add_score.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/view/add_score.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/view/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/view/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/view/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/view/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case-study/src/view/list_score.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case-study/src/view/list_score.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Controller/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Controller/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/StudentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/StudentModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/src/controller/OrdersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/src/model/BillModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/src/model/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/src/model/Orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/baitap/src/view/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/src/controller/OrderController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/src/model/BillModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/src/model/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/src/model/Orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/dembaitap/src/view/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/src/controller/OrderController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/src/model/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/src/model/OrderModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/src/model/Orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demoMVC/src/view/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Controller/BillController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Controller/studentcontroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/Controller/studentcontroller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Model/BillModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/Model/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Model/studentcontroller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/Model/studentmodel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/Model/studentmodel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/View/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/View/detail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/View/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/View/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/View/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/taoMVC/controller/CustomerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/taoMVC/model/CustomerDB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/taoMVC/model/CustomerModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/taoMVC/model/DBConnection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/vendor/controler.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/controller/commodityController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/controller/commodityController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/model/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/model/commodity.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/model/commodity.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/model/commodityModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/model/commodityModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/view/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/view/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/view/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/view/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentap/src/view/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentap/src/view/list.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +137,8 @@
         <entry file="file://$PROJECT_DIR$/Reflection-Moudle2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,11 +174,6 @@
             <path>
               <item name="bai1" type="b2602c69:ProjectViewProjectNode" />
               <item name="bai1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bai1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bai1" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflection-Moudle2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,16 +213,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611571429625</updated>
-      <workItem from="1611571430754" duration="635000" />
+      <workItem from="1611571430754" duration="878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="635000" />
+    <option name="totallyTimeSpent" value="878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="747" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Alibaba Cloud Explorer" />
       <window_info id="Favorites" side_tool="true" />
@@ -232,8 +259,8 @@
     <entry file="file://$PROJECT_DIR$/Reflection-Moudle2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
