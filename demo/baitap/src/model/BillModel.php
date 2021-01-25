@@ -1,0 +1,15 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: lananh
+ * Date: 2020-12-04
+ * Time: 11:31
+ */
+
+namespace App\model;
+
+
+class BillModel
+{
+
+}
