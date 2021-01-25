@@ -2,6 +2,77 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/Baivenha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/CASE STUDY1/Food-case" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/baithilythuyet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cautrucif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/chisocannang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/bang-cuu-chuong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/daonguocphantutrongbang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/daonguocphantutrongbang/dudungvonglapfor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/daonguocphantutrongbang/sukienbanphim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/daonguocphantutrongbang/tim gia tri lon nhat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/daonguocphantutrongbang/vong lap 01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/game puzzle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/game/game_xin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/hien thi cac so nguyen to dau tien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/hien thi cac so nguyen to dau tien/ung dung vui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/hien thi cac so nguyen to dau tien/vong lap long nhau" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/lamhamcossan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/luyen cau gtruc dieu kien 1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/luyen dk 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/may tinh don gian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/thao tac voi mang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/timgiatritrongmang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/cvcanhan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/cvcanhan/taodanhsach" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/dangkinguoidung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/dangkinguoidung/toantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/nhungjava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/switch-case" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/toantu3ngoi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/toantu3ngoi/baitapthuchanh " vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/toantu3ngoi/formDangKy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/toantu3ngoi/taogoogle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/toantu3ngoi/thoikhoa bieu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/vong lap 02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/vong lap 02/luyentap_vonglap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/vong lap 02/vong_lap02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tinhnămnhuan/vonglapdowhile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/tudien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/ung dung may tinh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/CASE STUDY1/Food-case" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/baithilythuyet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/cautrucif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/luyentapvsif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/sukienchuat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/thuc-hanh-tao-form-co-ban" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vong lap 01/thuchanhswitch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/cvcanhan/vonglapwhile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/game/game_xin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/khaibaovasudungbien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/kieudulieutoantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/lamhamcossan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/luyentapvsif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/may tinh don gian/chisocannang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/may tinh don gian/khaibaovasudungbien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/may tinh don gian/kieudulieutoantu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/may tinh don gian/my-new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/may tinh don gian/thoikhoabieulop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/my-new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/sukienchuat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/thoikhoabieulop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/thuc-hanh-tao-form-co-ban" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/thuchanhswitch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/tongquankienthuc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/tudien" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/tổng hợp kiến thức 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reflection-module2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2/bai11" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/baitapmodule2/bai12" vcs="Git" />
@@ -15,6 +86,9 @@
     <mapping directory="$PROJECT_DIR$/baitapvenha" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/book-management-back-end" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/book-management-front-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/case-study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/bai1/Reflection-module2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-renaming" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test/customer-filter" vcs="Git" />
