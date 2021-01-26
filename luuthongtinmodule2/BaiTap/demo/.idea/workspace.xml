@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cc14dcf-2f9c-4a7b-b94d-9612713dc9da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../case-study/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/controller/ScoreController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/ClassStudent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/ClassStudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/Score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/ScoreModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/model/studentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/view/add_score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/src/view/list_score.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case-study/uploads/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/Model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dembaitap1/baitap2/src/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/studentcontroller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/studentmodel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/controller/commodityController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/model/commodity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/model/commodityModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap/src/view/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/baitapmodule2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap1**.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap1*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap2*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap3*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/baitap4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/thuc-hanh3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/thuchanh1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/thuchanh2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai1/thuchanh4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap1*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap2*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap3*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap4*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap5*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/baitap6*.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/customer-filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai2/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh1" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapmodule2/bai7/thuchanh3" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/list.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/DBConnect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/studentModel.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/studentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/controller/studentcontroller.php" />
+        <option value="$PROJECT_DIR$/src/model/DBConnect.php" />
+        <option value="$PROJECT_DIR$/demo.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="747" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cc14dcf-2f9c-4a7b-b94d-9612713dc9da" name="Default Changelist" comment="" />
+      <created>1608002442266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608002442266</updated>
+      <workItem from="1608002443491" duration="914000" />
+      <workItem from="1608036602034" duration="307000" />
+      <workItem from="1610371562781" duration="215000" />
+      <workItem from="1610591607967" duration="285000" />
+      <workItem from="1611550687089" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2485000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="747" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27059773" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Alibaba Cloud Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="3" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="4" />
+      <window_info anchor="right" id="Alibaba Log Console" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/list.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/studentModel.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/studentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/DBConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
